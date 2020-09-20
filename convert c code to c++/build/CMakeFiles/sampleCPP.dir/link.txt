@@ -1,0 +1,1 @@
+/usr/bin/c++  -D__STDC_CONSTANT_MACROS -std=c++11 -pthread  -rdynamic CMakeFiles/sampleCPP.dir/main.cpp.o  -o sampleCPP 

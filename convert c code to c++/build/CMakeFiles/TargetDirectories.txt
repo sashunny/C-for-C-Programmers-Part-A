@@ -1,0 +1,3 @@
+/home/novice/Desktop/coursera/first programming assignment/build/CMakeFiles/rebuild_cache.dir
+/home/novice/Desktop/coursera/first programming assignment/build/CMakeFiles/edit_cache.dir
+/home/novice/Desktop/coursera/first programming assignment/build/CMakeFiles/sampleCPP.dir

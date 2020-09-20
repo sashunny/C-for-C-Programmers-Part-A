@@ -1,0 +1,12 @@
+
+program output:
+
+density :0.2
+Average distance : 4.18
+density :0.4
+Average distance : 3.06
+
+1. Learned and implemented Dijkstra's algorithm. 
+2. Used matrix representation
+3. Did not used PriorityQueue instead followed a simple method involving vector. 
+

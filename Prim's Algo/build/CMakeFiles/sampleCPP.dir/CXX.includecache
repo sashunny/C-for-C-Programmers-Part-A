@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/novice/Desktop/coursera/third/graph.h
+iostream
+-
+vector
+-
+fstream
+-
+
+/home/novice/Desktop/coursera/third/main.cpp
+iostream
+-
+vector
+-
+graph.h
+/home/novice/Desktop/coursera/third/graph.h
+prim.h
+/home/novice/Desktop/coursera/third/prim.h
+
+/home/novice/Desktop/coursera/third/prim.h
+iostream
+-
+climits
+-
+vector
+-
+
