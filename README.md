@@ -36,9 +36,11 @@ HOW TO EXECUTE :
 
 1. Clone the repository or download it
 2. Open the assignment of interest
-3. open terminal and navigate to the build folder inside it
-4. $ cmake ..
-5. $ make
-6. $ ./sampleCPP
+3. open terminal 
+4. $ mkdir build
+5. $ cd build
+6. $ cmake ..
+7. $ make
+8. $ ./sampleCPP
 
 If you do not have cmake then use compiler to build and execute the binary
