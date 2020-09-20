@@ -1,3 +1,0 @@
-/home/novice/Desktop/coursera/Dijkstra/build/CMakeFiles/rebuild_cache.dir
-/home/novice/Desktop/coursera/Dijkstra/build/CMakeFiles/edit_cache.dir
-/home/novice/Desktop/coursera/Dijkstra/build/CMakeFiles/sampleCPP.dir

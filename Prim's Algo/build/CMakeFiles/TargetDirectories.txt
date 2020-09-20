@@ -1,3 +1,0 @@
-/home/novice/Desktop/coursera/third/build/CMakeFiles/rebuild_cache.dir
-/home/novice/Desktop/coursera/third/build/CMakeFiles/edit_cache.dir
-/home/novice/Desktop/coursera/third/build/CMakeFiles/sampleCPP.dir
